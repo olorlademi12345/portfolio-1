@@ -1,0 +1,22 @@
+.first{
+background-color: indigo; }
+
+.second{
+	background-color: darkred;
+}
+ul{
+	list-style-type: none;
+}
+li{
+	display: inline;
+	padding: 5px;
+	border: 2px groove red;
+	margin: 10px;
+	background-color: grey;
+}
+li a{ text-decoration:yellow;
+
+}
+a:hover{
+	border: 4px dashed orange;
+}

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>my take home</title>
+</head>
+<body style="background-color: chocolate;">
+<h1 style="color: rgb(100, 50, 70, 1.0);">A dolphin</h1>
+<h5 style="color"#605080;>A dolphin is an aquatic mammal that is highly intelligent and part of the family of toothed whales that includes orcas and pilot whales in the clade Odontoceti.Dolphins are carnivores,mostly eat fish and squid.There about around 40 different species of dolphins swimming in oceans of the world.They only sleep with half of their brain.Dolphins swim in the depth of 10 to 150 feet,they do not have any hair,they are mostly found in shallow seas of the continental shelves,they also known as cetaceans.Dolphin live a long time.The killer whales is the largest member of oceanic dolphin family.Dolphins have no sense of smell and does not have good sense of taste     </h5>
+<h6>Images of dolphin</h6>
+<img src="img dolph 1.jpg">
+<img src="img dolph 2.jpg">
+<h3>Types of dolphin species</h3>
+<ul>
+<li>Spinner dolphin</li>
+<li> striped dolphin</li>
+</body>
+</html>

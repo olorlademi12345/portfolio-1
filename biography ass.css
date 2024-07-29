@@ -1,0 +1,25 @@
+body {
+	background-color: darkblue;
+	font-size: 170%;
+}
+h1 {
+	color: greenyellow;
+	font-family:verander;
+	font-size: 140%;
+}
+p {
+	border: 2px solid powderblue;
+	padding: 40px;
+	color: white;
+	font-family: initial;
+}
+.third {
+	background-color: purple;}
+.fifth{
+	background-color: skyblue;
+ }
+	img {
+		width: 160px;
+		height: 170px;
+		float: left;
+	}

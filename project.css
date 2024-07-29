@@ -1,0 +1,67 @@
+div{
+	width:120%;
+	height:100px;
+	border: 5px groove brown;
+	margin: 4px;
+}
+#first a{
+	text-align: center;
+	display: block;
+	font-size: 2.5em;
+	border-radius:25px ;
+}
+#first{
+	background-color: skyblue;
+	text-align: center;
+    border-radius:25px ;
+}
+#second a{
+	text-align: center;
+	display: block;
+	font-size: 2.5em;
+	border-radius:25px;
+}
+#second{
+	background-color: yellow;
+	text-align: center;
+	border-radius:25px ;
+}
+#third{
+	background-color: grey;
+	text-align: center;
+	border-radius:25px;
+}
+#third a{
+	text-align: center;
+	display: block;
+	font-size: 2.5em;
+	border-radius:25px ;
+}
+#fourth{
+	background-color: lightpink;
+	text-align: center;
+	border-radius:25px 
+}
+#fourth a{
+	text-align: center;
+	display: block;
+	font-size: 2.5em;
+	border-radius:25px ;
+	}
+#fifth{
+	background-color: lightcoral;
+	text-align: center;
+	border-radius:25px 
+}
+#fifh a{
+	text-align: center;
+	display: block;
+	font-size: 2.5em;
+	border-radius:25px ;
+}
+
+#navigation{
+	width: 170%;
+	height: 150px ;
+	border: none;
+}
